@@ -1,5 +1,6 @@
+
 import React from 'react';
-import { ArrowDown, Mail, Phone, Linkedin } from 'lucide-react';
+import { ArrowDown, Mail, Phone, LinkedIn } from 'lucide-react';
 
 export const Hero = () => {
   return (
