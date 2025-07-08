@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { Mail, Phone, LinkedIn } from 'lucide-react';
+import { Mail, Phone, Linkedin } from 'lucide-react';
 
 export const Contact = () => {
   return (
@@ -45,7 +44,7 @@ export const Contact = () => {
               rel="noopener noreferrer"
               className="group bg-white/10 backdrop-blur-sm rounded-xl p-6 hover:bg-white/20 transition-all duration-300 transform hover:scale-105"
             >
-              <LinkedIn className="w-8 h-8 mx-auto mb-4 text-blue-500 group-hover:text-blue-400" />
+              <Linkedin className="w-8 h-8 mx-auto mb-4 text-blue-500 group-hover:text-blue-400" />
               <h3 className="text-lg font-semibold mb-2">LinkedIn</h3>
               <p className="text-gray-300 group-hover:text-white transition-colors">
                 Connect with me
